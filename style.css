@@ -32,6 +32,7 @@ body {
     top: 10vh;
     left: 50%;
     transform: translateX(-50%);
+    white-space: nowrap;
 
     margin: 0;
     color: rgb(241, 228, 254);
@@ -44,6 +45,7 @@ body {
     top: 90vh;
     left: 60%;
     transform: translateX(-40%);
+    white-space: nowrap;
 
     margin: 0;
     color: rgb(241, 228, 254);
